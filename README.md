@@ -1,7 +1,7 @@
 # Problems-and-tools-in-cosmology
 In this repository, I aimed to collect the big as well as interesting problems, and the cutting-edge tools used in cosmology.
 
-## Big problems in the Epoch of Reionization*(EoR)
+## Big problems in the Epoch of Reionization (EoR)
 ### Theoretical ones
 * When does the EoR start.
 * What is the knowledge about the first black holes (theoretical and statistical).
